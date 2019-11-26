@@ -6,22 +6,23 @@ import os
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+ADMIN_ACCOUNT = "admin@lwbottest02"
+DOMAIN_ID = 10123847
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "jp1MvOxVtgDem"
+CONSUMER_KEY = "pF1NgtwoOv19NytB5ovX"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "f7cecbb969b74579b90390406412108f"
+PRIVATE_KEY_NAME = "private_20191118211504.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://samplebot-app.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-107-21-98-89.compute-1.amazonaws.com"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_NAME = "d83t1dkrasq3jc"
+DB_USER = "khufgkwfgmduln"
+DB_PASSWORD = "1be711dbc329a2e81e9ed8f97e6fa0a2a199851f5e393617c5d16983a3331d6b"
+DB_SSLMODE = "prefer"
