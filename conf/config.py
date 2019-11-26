@@ -14,7 +14,7 @@ API_ID = "jp1MvOxVtgDem"
 CONSUMER_KEY = "pF1NgtwoOv19NytB5ovX"
 
 SERVER_ID = "f7cecbb969b74579b90390406412108f"
-PRIVATE_KEY_NAME = "private_20191126142134.key"
+SECRET_KEY_NAME = "private_20191126142134.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://samplebot-app.herokuapp.com/"
